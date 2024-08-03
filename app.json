@@ -21,22 +21,22 @@
     "AUTO_STATUS_SEEN": {
       "description": "make it true if you want bot to view status",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
       "required": false,
-      "value": "true"
+      "value": "false"
     },
     "AUTO_TYPING": {
       "description": "make it true if you want bot to show typing",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "AUTO_RECORDING": {
       "description": "make it true if you want bot to show recording audio",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "ALWAYS_ONLINE": {
       "description": "make it true if you want bot to show always online",
@@ -56,12 +56,12 @@
       "OWNER_NAME": {
       "description": "Name of Bot Owner",
       "required": true,
-      "value": "𝗧𝗢𝗚𝗘-𝗠𝗗-𝗩𝟮"
+      "value": "JINWIIL 🕷️🕸️"
     },
       "OWNER_NUMBER": {
       "description": "numbers of Bot Owner (should be in international format without + )",
       "required": true,
-      "value": "24102150169" 
+      "value": "254769365617" 
     }   
     },
     "buildpacks": [
